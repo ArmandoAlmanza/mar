@@ -1,7 +1,9 @@
+import Regard from "./components/Regard";
+
 function App() {
     return (
         <>
-            <h1>Hello Mar</h1>
+            <Regard />
         </>
     );
 }

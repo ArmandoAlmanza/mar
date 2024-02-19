@@ -1,0 +1,16 @@
+{
+    "name": "Machape Love",
+    "description": "Si te sientes sola, abreme",
+    "start_url": "/",
+    "short_name": "MachaLove",
+    "icons": [
+        {
+            "src": "/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#beadfa",
+    "background_color": "#beadfa",
+    "display": "standalone"
+}
